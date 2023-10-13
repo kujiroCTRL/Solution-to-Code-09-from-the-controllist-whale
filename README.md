@@ -1,4 +1,4 @@
-|       |       |
+|Word   |Letter |
 |---    |---    |
 |Martina|X      |
 |Veggie |W      |
